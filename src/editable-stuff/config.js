@@ -7,7 +7,7 @@ const mainBody = {
   firstName: "Magdalena",
   middleName: "",
   lastName: "Kortas",
-  message: "  Passionate about and specialised in building AI for Good solutions. ",
+  message: " Data Scientist | AI4Good | AI4Climate | CAP® Certified Data Scientist | Women in Machine Learning & Data Science Poland | Passionate about and specialised in building AI for Good solutions. ",
   icons: [
     {
       image: "fa-github",
