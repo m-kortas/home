@@ -34,7 +34,7 @@ const about = {
 
 const repos = {
   show: true,
-  heading: "Some of my projects",
+  heading: "Open-source projects",
   gitHubUsername: "m-kortas", 
   reposLength: 0,
   specificRepos: ['Sound-based-bird-species-detection', 'detect-waste', 'AI-playground', 'anomaly-detection'],
@@ -44,7 +44,7 @@ const leadership = {
   show: true,
   heading: "Targeting with AI the most important challenges of the 21st century",
   message:
-    "Artificial Intelligence (AI) is a disruptive paradigm that has greater potential to assess, predict, and mitigate the risk of climate change with efficient use of data, learning algorithms, and sensing devices. It performs a calculation, makes predictions, and take decisions to mitigate the impacts of climate change. The world is already experiencing higher temperatures, more extreme droughts, fire seasons, floods and more extreme weather due to climate change. ",
+    "Artificial Intelligence (AI) is a disruptive paradigm that has greater potential to assess, predict, and mitigate the risk of climate change with efficient use of data, learning algorithms, and sensing devices. It performs a calculation, makes predictions and decisions to mitigate the impacts of climate change like higher temperatures, more extreme droughts, fire seasons, floods and more extreme. I have successfully built Data Science/AI solutions related to challenges of floods and water pollution, CO2 emission reduction, environmental pollution and awareness. ",
   images: [
     { 
       img: require("../assets/img/climate.jpg"), 
@@ -134,30 +134,42 @@ const experiences = {
       companylogo: require('../assets/img/womentech.png'),
       date: 'Jun 2020 – Present',
     },
+
       {
       role: 'Member - Women in AI (WAI)',
       companylogo: require('../assets/img/WAI.jpg'),
       date: 'May 2020 – Present',
     },
-      {
+      
+    {
+      role: 'Senior Data Scientist, Owner - Magdalena Kortas Data Solutions',
+      companylogo: require('../assets/img/magda_c.jpg'),
+      date: 'Jul 2019 – Present',
+    },
+      
+    {
       role: 'Co-founder, Lead ML Engineer - Women in Machine Learning & Data Science (WiMLDS) Poland',
       companylogo: require('../assets/img/wimlds.png'),
       date: 'Jul 2018 – Present',
     },
+            
+  
+
     {
       role: 'Senior Data Scientist - IHS Market (S&P Global)',
       companylogo: require('../assets/img/ihs.png'),
       date: 'Mar 2021 – Sep 2021',
     },
+      
+       {
+      role: 'Data Science Consultant - Neptune.ai',
+      companylogo: require('../assets/img/neptune.png'),
+      date: 'October 2020 – November 2020',
+    },
           {
       role: 'Data Scientist - PredictX',
       companylogo: require('../assets/img/predictx.jpg'),
       date: 'Aug 2019 – Feb 2021',
-    },
-    {
-      role: 'Data Scientist, Owner - Magdalena Kortas Data Solutions',
-      companylogo: require('../assets/img/magda_c.jpg'),
-      date: 'Jul 2019 – Feb 2021',
     },
           {
       role: 'Lead ML Engineer - Omdena',
