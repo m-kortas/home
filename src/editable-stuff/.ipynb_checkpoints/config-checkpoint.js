@@ -22,11 +22,11 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "About Me",
+  heading: "About me",
   imageLink: require("../assets/img/magda_c.jpg"),
   imageSize: 400,
   message:
-    "I am an ambitious, internationally recognised and certified Data Science expert with​ 4 years of professional experience in Data Science & Machine Learning gained in both the private and civic sector, working on international projects in the fields of Finance, Energy, Health, Circular Economy, Infrastructure, Travel, Transport and Education. Passionate about and specialised in building AI for Good solutions. An active supporter and promoter of women and gender minorities in Data Science and Machine Learning, lead and participated in many international AI4Good projects. An exceptional track record of professional achievements, including senior roles, professional awards, international publications and memberships.", 
+    "I am a certified, ambitious and passionate Applied Data Science expert with​ wide professional experience in Data Science & Machine Learning gained in both the private and civic sector with a rich experience in the public and civil sector in the fields of civil rights and social action. I am also a Certified Analytics Professional (CAP), certification holder, a trusted, independent American verification of the critical technical expertise and related soft skills possessed by accomplished analytics and data science professionals. Currently, I am a Data Science expert working for a Canadian company where I develop an Artificial Intelligence solution to fight water pollution and floods for smart cities’ waste disposal infrastructure in Northern America. ", 
     resume: require("../editable-stuff/resume.pdf"),
 
 };
@@ -44,7 +44,7 @@ const leadership = {
   show: true,
   heading: "Targeting with AI the most important challenges of the 21st century",
   message:
-    "Artificial Intelligence (AI) is a disruptive paradigm that has greater potential to assess, predict, and mitigate the risk of climate change with efficient use of data, learning algorithms, and sensing devices. It performs a calculation, makes predictions and decisions to mitigate the impacts of climate change like higher temperatures, more extreme droughts, fire seasons, floods and more extreme. I have successfully built Data Science/AI solutions related to challenges of floods and water pollution, CO2 emission reduction, environmental pollution and awareness. ",
+    "Artificial Intelligence (AI) is a disruptive paradigm that has greater potential to assess, predict, and mitigate the risk of climate change with efficient use of data, learning algorithms, and sensing devices. It performs a calculation, makes predictions and decisions to mitigate the impacts of climate change like higher temperatures, more extreme droughts, fire seasons, floods and more extreme.  I provide solutions in the field of AI-powered climate change counteraction and environmental protection. I have been working, among others, in challenges connected to floods, water pollution, CO2 emissions reduction in the travel and energy sector, environmental pollution and environmental awareness.",
   images: [
     { 
       img: require("../assets/img/climate.jpg"), 
