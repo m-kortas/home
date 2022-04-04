@@ -7,7 +7,7 @@ const mainBody = {
   firstName: "Magdalena",
   middleName: "",
   lastName: "Kortas",
-  message: " Data Scientist | AI4Good | AI4Climate | CAP® Certified Data Scientist | Women in Machine Learning & Data Science Poland | Passionate about and specialised in building AI for Good solutions ",
+  message: "Data Scientist • 🤖 Machine Learning Engineer • 🌱 AI4Climate • AI4Good • CAP® Certified Data Scientist • 👩🏻 Women in Machine Learning & Data Science Poland • Women who Break the Bias 2022 • TOP100 Women in Artificial Intelligence in Poland Award 2022 • Women in AI Hero 2021",
   icons: [
     {
       image: "fa-github",
