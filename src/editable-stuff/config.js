@@ -122,12 +122,12 @@ const experiences = {
       {
       role: 'Member -  Women+ in Climate Tech',
       companylogo: require('../assets/img/womeninclimate.png'),
-      date: 'March 2022 – Present',
+      date: 'Mar 2022 – Present',
     },
       {
       role: 'Member -  International Society for Data Science and Analytics (ISDSA)',
       companylogo: require('../assets/img/ISDSA.png'),
-      date: 'Oct 2021 – Present',
+      date: 'Jan 2021 – Present',
     },
     {
       role: 'Data Scientist - Carl Data Solutions',
