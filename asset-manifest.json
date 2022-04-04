@@ -1,19 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.939dd308.css",
-    "main.js": "/static/js/main.81480745.js",
-    "static/media/resume.pdf": "/static/media/resume.3b1ffdd4cb2c52f5c8b3.pdf",
-    "static/media/ihs.jpg": "/static/media/ihs.93752403a9c03c3fd485.jpg",
-    "static/media/carl.jpg": "/static/media/carl.2c7459237bf104dd0ab6.jpg",
-    "static/media/nordea.jpg": "/static/media/nordea.2c8f63973d0570a8ddc0.jpg",
-    "static/media/magda.jpg": "/static/media/magda.179977b3c92465f5c1b4.jpg",
-    "static/media/predictx.jpg": "/static/media/predictx.fb60f214672ffdfd236e.jpg",
+    "main.js": "/static/js/main.fac078e3.js",
+    "static/media/energy.jpg": "/static/media/energy.710f38c999798376fff5.jpg",
+    "static/media/climate.jpg": "/static/media/climate.a3c1f3b03fffb9fa093e.jpg",
+    "static/media/resume.pdf": "/static/media/resume.09dfdb9c34b60664fa6c.pdf",
+    "static/media/bird.jpg": "/static/media/bird.fd419fc7c62a4e421f7a.jpg",
+    "static/media/floods.jpg": "/static/media/floods.baf84be5773e696a93c6.jpg",
+    "static/media/plastic.jpg": "/static/media/plastic.38e133201252c5aeeaf7.jpg",
+    "static/media/nordea.png": "/static/media/nordea.0daa1a8f8d2e82ac90e1.png",
+    "static/media/carl.png": "/static/media/carl.e2a9de3328f992270ae3.png",
+    "static/media/ihs.png": "/static/media/ihs.a65682d92a3403e9da45.png",
+    "static/media/womeninclimate.png": "/static/media/womeninclimate.361cd706069656bb3da2.png",
+    "static/media/predictx.jpg": "/static/media/predictx.9a6192be619acf7ac49a.jpg",
+    "static/media/omdena.png": "/static/media/omdena.762659286d9da91390da.png",
+    "static/media/ISDSA.png": "/static/media/ISDSA.4e545a9be4767c7468ce.png",
+    "static/media/neptune.png": "/static/media/neptune.096001699a6ca2917d18.png",
+    "static/media/wimlds.png": "/static/media/wimlds.5516dd757aacf8c7ea5c.png",
     "index.html": "/index.html",
     "main.939dd308.css.map": "/static/css/main.939dd308.css.map",
-    "main.81480745.js.map": "/static/js/main.81480745.js.map"
+    "main.fac078e3.js.map": "/static/js/main.fac078e3.js.map"
   },
   "entrypoints": [
     "static/css/main.939dd308.css",
-    "static/js/main.81480745.js"
+    "static/js/main.fac078e3.js"
   ]
 }
